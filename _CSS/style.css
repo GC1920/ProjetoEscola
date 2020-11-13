@@ -1,0 +1,65 @@
+body#n1 {
+   font: normal Arial 15pt;
+   background-image: url(../_Imagens/_thumb.jpg);
+}
+
+div#n2 {
+    padding: 10px;
+}
+
+section#n3 {
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+    width: 275px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, .365);
+    text-align: center;
+    margin-top: 150px;
+}
+
+section#n3 img#icone {
+    position: center;
+    width: 50px;
+}
+
+p {
+    font: Arial;
+    font-size: medium;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+    padding-top: 250px;
+}
+
+form {
+    width: 500px;
+    margin: auto;
+}
+
+input, textarea {
+    font-family: sans-serif;
+    font-weight: normal;
+    font-size: 10pt;
+    background-color: rgba(255,255,255,.8);
+}
+
+input:hover, textarea:hover {
+    background-color: #dddddd;
+
+}
+
+legend {
+    color: #888888;
+    font-weight: bold;
+    font-size: 13pt;
+    font-family: sans-serif;
+}
+
+fieldset {
+    border-color: #cecece;
+    margin: 20px;
+}
